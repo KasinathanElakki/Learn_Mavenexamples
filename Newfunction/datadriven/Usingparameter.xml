@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "Usingparameter">
+	<test name = "login test">
+	<parameter name ="username"   value = "testlogin"> </parameter>
+	<parameter name = "password" valye = "testpassword"></parameter>
+		<classes>
+			<class name = "datadriven.Usingparameter">
+			</class>
+		</classes>
+	</test>
+</suite>
